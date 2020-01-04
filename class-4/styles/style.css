@@ -1,0 +1,61 @@
+/* unIverSaL SeLector */
+
+/* * {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    border: 2px solid;
+} */
+
+/* Type Selectors */
+
+/* h1, h2, .note {
+    color: red;
+} */
+
+/* CLaSS SeLector */
+
+/* .note {
+    color: red;
+}
+p.note {
+    color: green; */
+
+/* } */
+
+/* ID CELECTOR */
+
+/* #introduction{
+    color: green;
+} */
+
+/* chILd SeLector */
+
+/* li > a{
+    color: red;
+} */
+
+/* deScendant SeLector */
+
+/* 
+ul a {
+    color: red;
+} */
+
+/* adjacent SIBLIng SeLector */
+
+/* 
+h1+p {
+    color: red;
+} */
+
+/* 
+h1~p {
+    color: red;
+} */
+
+.page {
+    opacity: 0.5;
+    /* border: 10px solid red; */
+    background: rgba(173, 12, 12, 0.5);
+    color: #ffffff;
+}
