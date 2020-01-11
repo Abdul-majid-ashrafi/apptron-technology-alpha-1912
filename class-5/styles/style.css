@@ -1,0 +1,109 @@
+body {
+    background-color: brown;
+    color: white;
+    font-family: sans-serif;
+}
+
+a {
+    color: wheat;
+}
+
+/* h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} */
+
+/* 
+p {
+    font-size: 50%;
+}
+
+#container {
+    font-size: 50px;
+}
+
+.heading1 {
+    font-size: 50%;
+    font-weight: 600;
+} */
+
+/* @font-face {
+    font-family: 'titleFont';
+    src: url('../font/PG_Roof Runners_active_bold-it.ttf');
+}
+
+#myFont {
+    font-family: titleFont, Georgia, serif;
+} */
+
+/* * { */
+
+/* text-decoration: overline underline; */
+
+/* text-decoration-line: underline  ;
+    text-decoration-style: wavy;
+} */
+
+/* line-hight */
+
+/* p {
+    font-family: cursive;
+    font-size: x-large;
+    line-height: 37px;
+} */
+
+/* spacing */
+
+/* p{
+    letter-spacing: 20;
+} */
+
+/* text align */
+
+/* body{
+    text-align: center;
+} */
+
+/* indenTing  */
+
+/* p{
+    text-indent: 20px;
+} */
+
+/* text shdow */
+
+/* h1{
+    text-shadow: 2px 5px 5px black;
+} */
+
+/* first-letter and first-line */
+
+/* p::first-line{
+font-size: 32px;
+color: cyan;
+font-family: fantasy;
+} */
+
+/* hover */
+
+/* h1:hover {
+    text-transform: uppercase;
+    color: red;
+} */
+
+p {
+    /* width: 40%; */
+    border: 5px outset;
+    padding: 30px;
+    /* margin: 0 auto; */
+}
+/* 
+span {
+    background: red;
+    display: block;
+} */
+
+li {
+    display: inline;
+    padding: 10px;
+    border: 1 outset gray;
+}
