@@ -1,0 +1,23 @@
+/* * {} */
+
+div {
+    height: 300px;
+    max-width: 700px;
+    min-width: 300px;
+    background-color: #bbbbaa;
+}
+
+.borderRed {
+    border: 5px red dashed;
+}
+
+h1 {
+    background-color: #0088dd;
+    /* padding will be create space between border and test */
+    /* padding: 10px; */
+}
+
+p {
+    /* padding will be create space out fo the box/tag */
+    margin: 10px;
+}
