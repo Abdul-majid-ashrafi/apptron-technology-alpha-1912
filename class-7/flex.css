@@ -1,17 +1,16 @@
 .container {
     display: flex;
-    flex-direction: row-reverse;
-    border: 2px solid;
-
-    flex-wrap: wrap-reverse;
+    /* flex-direction: row-reverse; */
+    /* border: 2px solid; */
+    /* flex-wrap: wrap-reverse; */
 }
 
 h1 {
     flex: 1; 
-    width: 300px;
-    border: outset 2px;
+    /* width: 300px; */
+    /* border: outset 2px; */
     box-shadow: 2px 4px 8px red;
-    margin: 10px;
+    /* margin: 10px; */
     padding: 10px;
     color: red;
 }
