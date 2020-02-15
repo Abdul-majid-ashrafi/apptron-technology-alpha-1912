@@ -1,0 +1,7 @@
+lactures 
+if else switch statements
+array
+loop
+String methods
+DateAndTime
+functions
