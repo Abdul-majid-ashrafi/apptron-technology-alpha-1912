@@ -123,7 +123,7 @@
 
 
 
-    // <!--EventListener-->
+// <!--EventListener-->
 // function myFunction(){
 //     alert(98765)
 // }
@@ -154,7 +154,7 @@
 //     document.getElementById('head').innerHTML = val
 // }
 
-// // // // onfocus
+// // // // // onfocus
 // function focusFunction(x) {
 //     x.style.height = "32px";
 //     x.style.width = "232px";
@@ -230,7 +230,7 @@
 // function myFunction() {
 //     var x = document.getElementById("fname");
 //     x.value = x.value.toUpperCase();
-//     document.getElementById('demo').innerHTML = x.value
+//     document.getElementById('demo').innerHTML = x.value;
 // }
 
 

@@ -1,16 +1,20 @@
-// var text = "hello Apptron"
-// function add() {
-//     localStorage.setItem('data', text)
-// }
+// var text = "hello_Apptron-1234567";
+var message = document.getElementById("message")//.value
+var heading = document.getElementById("demo")//.innerHTML
+message.value = "DEfualt value"
+function add() {
+    var value = message.value;
+    localStorage.setItem('data', value)
+}
 
-// function getData() {
-// var getStorage = localStorage.getItem('data')
-// document.getElementById('demo').innerHTML = getStorage
-// }
+function getData() {
+    var getStorage = localStorage.getItem('data')
+    document.getElementById('demo').innerHTML = getStorage;
+}
 
-// function removed() {
-//     localStorage.removeItem('data')
-// }
+function removed() {
+    localStorage.removeItem('data')
+}
 
 
 

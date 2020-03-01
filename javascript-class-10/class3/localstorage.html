@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        var user = {
+            name: "Haider",
+            age: 45,
+            number: 2345678
+        }
+        localStorage.setItem("user", JSON.stringify(user));
+
+        var user = localStorage.getItem("user");
+        var userOBj = JSON.parse(user)
+        console.log(userOBj)
+        console.log(userOBj.name)
+    </script>
+</body>
+
+</html>
